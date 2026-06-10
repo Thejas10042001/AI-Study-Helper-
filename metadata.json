@@ -1,0 +1,8 @@
+{
+  "description": "AI Study Helper - Your personal AI tutor, powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "name": "AI Study Helper",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
